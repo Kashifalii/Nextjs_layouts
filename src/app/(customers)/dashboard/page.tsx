@@ -1,8 +1,7 @@
-export default function page() {
-
+export default function Dashboard() {
   return (
     <div>
-      <h1>Register page</h1>
+      <h1>Admin Dashboard</h1>
     </div>
   )
 }
